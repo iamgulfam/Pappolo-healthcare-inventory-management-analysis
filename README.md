@@ -21,7 +21,7 @@ Hospital staff tracked billing, bed occupancy, and doctor feedback in separate E
 | Detail | Info |
 |---|---|
 | Source | Papollo Healthcare Dataset (Excel) |
-| Records | ~10,000+ patient entries |
+| Records | ~7,000+ patient entries |
 | Columns | 11 |
 
 | Column | Description |
