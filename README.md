@@ -126,7 +126,9 @@ Hospital staff tracked billing, bed occupancy, and doctor feedback in separate E
 
 **Gulfam Raza**
 B.Tech – Information Technology, RKGIT Ghaziabad
+
 🎓 CGPA: **8.02** | **First Division with Distinction**
+
 Specialization: Data Analytics & its related roles.
 
 | | |
