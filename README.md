@@ -84,7 +84,7 @@ Hospital staff tracked billing, bed occupancy, and doctor feedback in separate E
 | 5 | Billing vs Insurance Line Chart | Amount comparison across 5 test types |
 | 6 | Date Range + Patient_ID Filter | Drill down to any patient or time window |
 
-![Papollo Hospitals Dashboard](Papollo_Hospitals_Dashboard_image.png)
+![Papollo Hospitals Dashboard](images/Papollo_Hospitals_Dashboard_image.png)
 
 ---
 
