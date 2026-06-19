@@ -107,7 +107,7 @@ Hospital staff tracked billing, bed occupancy, and doctor feedback in separate E
 
 - Private ward is consistently over-occupied; administration can act on this for resource allocation
 - CT Scan and Ultrasound carry the highest billing-insurance gap; actionable for finance and insurance renegotiation
-- Even doctor feedback volume confirms fair patient assignment across all 7 doctors
+- Even the doctor feedback volume confirms fair patient assignment across all 7 doctors
 - Viral Infection + Flu make up over 45% of total admissions; useful for seasonal planning and stock pre-ordering
 
 ---
